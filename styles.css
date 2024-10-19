@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(181, 181, 198);
+}
+.container{
+    margin-left: 400px;
+    margin-top: 150px;
+    background-color: white;
+width: 800px;
+height: 400px;
+border-radius: 20px;
+
+}
+img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+.surettinastyna{
+    color: rgb(39, 29, 67);
+    gap: 20px;
+    position: relative;
+    top: 40px;
+    left: 30px;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ppprrooggrreess{
+
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    right: 100px;
+    top:120px;
+    accent-color: #F17A37;
+}
+progress{
+    accent-color: #F17A37;
+    width: 350px;
+    
+ }
+ .textthirddp{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #13143B;
+    font-size: 15px;
+    
+}
+.icon{
+    width:20px ;
+    height:20px;
+    
+}
+.textfourp{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    width:40px ;
+    height:40px;
+    
+}
+button{
+    background-color: #13143B;
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    
+}
+
+.fivetextp{
+    font-size: 15px;
+    color: white;
+}
+.rightside{
+    position: absolute;
+    right: 330px;
+    top: 255px;
+}
+.leftside{
+    position: absolute;
+    left: 400px;
+    top: 205px;
+}
+
